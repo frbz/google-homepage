@@ -25,15 +25,15 @@ body {
 
 
 #apps {
-  background-image: url("https://ssl.gstatic.com/gb/images/i1_71651352.png");
-  background-position: -97px -57px;
-  height: 30px;
-  width: 30px;
-  display: inline-block;
-  position: relative;
-  right: 33px;
-  top: 7px;
-  opacity: 0.6;
+	background-image: url("https://ssl.gstatic.com/gb/images/i1_71651352.png");
+	background-position: -97px -57px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	position: relative;
+	right: 33px;
+	top: 7px;
+	opacity: 0.6;
 }
 
 .login {
@@ -73,7 +73,7 @@ body {
 }
 
 .country {
-  position: relative;
+	position: relative;
 	color: #777;
 	font-size: 16px;
 	font-weight: bold;
@@ -141,6 +141,7 @@ body {
 
 .blbar {
 	float: left;
+	display: inline-block;
 }
 
 .brbar {
